@@ -4,6 +4,8 @@
 
 vmess://eyJhZGQiOiI5NS4yMTQuNTMuMjI2IiwicHMiOiLwn4e18J+HsSDms6LlhbAgWz9HYnBzXSBbRGViaWFuXSBbVEcg576k57uE77yadC5tZS8rWEN6a1hFNmhMMFl3TW1RMV0iLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiIiwicG9ydCI6MTI4MDIsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiIiLCJpZCI6Ijk3YTAyMTQ1LTQ2MjgtMjQ2YS02ODUzLTA5ZTRjNDM2MTI2NCIsIm5ldCI6InRjcCJ9
 
+V2Ray 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/VMess.txt
+
 Clash 专属订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/clash.yaml
 
 

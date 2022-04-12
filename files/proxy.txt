@@ -19,6 +19,9 @@ SHA256：a8b67ab0abc23d4bb5e4d5897adc16a3aeb8631bf6afdd748e13e5166dbe30af
 
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
 
+SHA256：3cfd072bc044758b09eb5a6f6582a5e5bb38286c79768541a6c5964883730dd6
+
+
 
 • Clash for Android Premium
 

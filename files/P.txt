@@ -1,9 +1,3 @@
-源地址（被墙）：
-https://raw.githubusercontent.com/OVOJKzzZ/files/main/files/P.txt
-
-CDN 加速过的地址：
-https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/P.txt
-
 有什么问题/需求请联系我：ovojkzzz@gmail.com
 
 自己搭建的（很稳定）：

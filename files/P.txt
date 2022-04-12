@@ -53,6 +53,12 @@ SHA256：
 
 
 
+• AnXray
+
+该项目已停止维护
+
+
+
 • v2rayNG/v2flyNG
 
 不会做软件就别做

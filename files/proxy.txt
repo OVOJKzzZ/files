@@ -6,7 +6,7 @@ vmess://eyJhZGQiOiI5NS4yMTQuNTMuMjI2IiwicHMiOiLwn4e18J+HsSDms6LlhbAgWz9HYnBzXSBb
 
 Android 代理工具（均为官方最新稳定版）
 
-下载完请务必核对 SHA256 以防篡改
+下载完请务必核对 SHA256 以防被篡改
 
 
 • SagerNet

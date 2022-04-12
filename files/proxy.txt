@@ -5,3 +5,6 @@ Android 代理工具（均为官方最新稳定版）
 
 • SagerNet
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
+
+• Clash for Android-Foss
+下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash for Android-2.4.14-foss.apk

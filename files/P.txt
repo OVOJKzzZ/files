@@ -15,7 +15,7 @@ Android 代理工具（均为官方最新正式版）
 下载完请务必校验 SHA256/SHA512 以防被篡改
 
 
-• SagerNet
+ ● SagerNet
 
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
 
@@ -25,7 +25,7 @@ SHA512：
 
 
 
-• Clash for Android Foss
+ ● Clash for Android Foss
 
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
 
@@ -35,7 +35,7 @@ SHA512：
 
 
 
-• Clash for Android Premium
+ ● Clash for Android Premium
 
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-premium.apk
 
@@ -45,7 +45,7 @@ SHA512：
 
 
 
-• SSRRAY
+ ● SSRRAY
 
 下载地址：
 文件大小超出限制不能上传，抱歉。如果你有什么好方法请告诉我
@@ -56,7 +56,7 @@ SHA512：
 
 
 
-• Surfboard
+ ● Surfboard
 
 下载地址：
 文件大小超出限制不能上传，抱歉。如果你有什么好方法请告诉我
@@ -67,12 +67,12 @@ SHA512：
 
 
 
-• AnXray
+ ● AnXray
 
 项目已停止维护
 
 
 
-• v2rayNG/v2flyNG
+ ● v2rayNG/v2flyNG
 
 不会做软件就别做

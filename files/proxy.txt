@@ -6,7 +6,7 @@ vmess://eyJhZGQiOiI5NS4yMTQuNTMuMjI2IiwicHMiOiLwn4e18J+HsSDms6LlhbAgWz9HYnBzXSBb
 
 Android 代理工具（均为官方最新稳定版）
 
-下载完请务必核对 SHA256 以防 CDN 篡改
+下载完请务必核对 SHA256 以防篡改
 
 • SagerNet
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk

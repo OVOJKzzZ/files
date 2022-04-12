@@ -4,7 +4,7 @@
 
 V2Ray 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/VMess.txt
 
-Clash 专属订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/clash.yaml
+Clash 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/clash.yaml
 
 
 

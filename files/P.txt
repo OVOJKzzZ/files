@@ -10,7 +10,9 @@ Clash 专属订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/clas
 
 Android 代理工具（均为官方最新正式版）
 
-下载完请务必核对 SHA256 以防被篡改
+下载完请务必校验 SHA256 以防被篡改
+下载完请务必校验 SHA256 以防被篡改
+下载完请务必校验 SHA256 以防被篡改
 
 
 • SagerNet

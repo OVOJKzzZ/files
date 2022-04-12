@@ -7,10 +7,10 @@ Android 代理工具（均为官方最新稳定版）
 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
 
 • Clash for Android Foss
-下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash for Android-2.4.14-foss.apk
+下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash20%for20%Android-2.4.14-foss.apk
 
 
 • Clash for Android Premium
-下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash for Android-2.4.14-premium.apk
+下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash20%for20%Android-2.4.14-premium.apk
 
 • SSRRAY 和 Surfboard 文件大小超出限制不能上传，抱歉

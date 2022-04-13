@@ -45,7 +45,7 @@ SHA512：
 
 
 
-● Matsuri
+● Matsuri（Fork SagerNet）
 
 下载地址：
 原版与改版如何抉择
@@ -78,7 +78,7 @@ SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca38691
 
 
 
-● AnXray
+● AnXray（Fork SagerNet）
 
 项目已停止维护
 

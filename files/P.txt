@@ -43,7 +43,7 @@ SHA512：
 
 ● Clash for Android Foss
 
-下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
+📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
 
 SHA256：3cfd072bc044758b09eb5a6f6582a5e5bb38286c79768541a6c5964883730dd6
 
@@ -53,7 +53,7 @@ SHA512：
 
 ● Clash for Android Premium
 
-下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-premium.apk
+📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-premium.apk
 
 SHA256：983d4d77274ecb141067aaa183f4b5fe688cb0fe26fed09cbfa6909929630035
 
@@ -63,7 +63,7 @@ SHA512：
 
 ● Matsuri（Fork SagerNet）
 
-下载地址：
+📥 下载地址：
 原版与改版如何抉择
 
 SHA256：
@@ -74,7 +74,7 @@ SHA512：
 
 ● SSRRAY
 
-下载地址（可能被墙）：
+📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
 
 SHA256：d8420601f9dfa95cc5748364aa923877eb693829a958b8e6fb7fbc1146a27d39
@@ -85,7 +85,7 @@ SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e
 
 ● Surfboard
 
-下载地址（可能被墙）：
+📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
 SHA256：50d8d2ed62e5901b276ff0e2fa8258a1fc7e5b331ace7dba409b8c9d930d43da
@@ -98,7 +98,7 @@ SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca38691
 
 ⚠ 项目已停止维护，不推荐使用
 
-下载地址：
+📥 下载地址：
 https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/AnXray-0.4-rc06.apk
 
 SHA256：2608334c27636d89f4409506ede6f3e757623db29f9aa4cd97f8ac1afbaaadce

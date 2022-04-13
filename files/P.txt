@@ -56,7 +56,7 @@ SHA512：
 
 ● SSRRAY
 
-下载地址：
+下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
 
 SHA256：d8420601f9dfa95cc5748364aa923877eb693829a958b8e6fb7fbc1146a27d39
@@ -67,7 +67,7 @@ SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e
 
 ● Surfboard
 
-下载地址：
+下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
 SHA256：50d8d2ed62e5901b276ff0e2fa8258a1fc7e5b331ace7dba409b8c9d930d43da

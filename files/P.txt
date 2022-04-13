@@ -45,9 +45,9 @@ SHA512：
 
 📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
 
-SHA256：3cfd072bc044758b09eb5a6f6582a5e5bb38286c79768541a6c5964883730dd6
+🧐 SHA256：3cfd072bc044758b09eb5a6f6582a5e5bb38286c79768541a6c5964883730dd6
 
-SHA512：
+🧐 SHA512：
 
 
 
@@ -55,9 +55,9 @@ SHA512：
 
 📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-premium.apk
 
-SHA256：983d4d77274ecb141067aaa183f4b5fe688cb0fe26fed09cbfa6909929630035
+🧐 SHA256：983d4d77274ecb141067aaa183f4b5fe688cb0fe26fed09cbfa6909929630035
 
-SHA512：
+🧐 SHA512：
 
 
 
@@ -66,9 +66,9 @@ SHA512：
 📥 下载地址：
 原版与改版如何抉择
 
-SHA256：
+🧐 SHA256：
 
-SHA512：
+🧐 SHA512：
 
 
 
@@ -77,9 +77,9 @@ SHA512：
 📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
 
-SHA256：d8420601f9dfa95cc5748364aa923877eb693829a958b8e6fb7fbc1146a27d39
+🧐 SHA256：d8420601f9dfa95cc5748364aa923877eb693829a958b8e6fb7fbc1146a27d39
 
-SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e851fb5f507d263740dcf8780907ee311f7f1cef78654c9e26381821d8
+🧐 SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e851fb5f507d263740dcf8780907ee311f7f1cef78654c9e26381821d8
 
 
 
@@ -88,9 +88,9 @@ SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e
 📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
-SHA256：50d8d2ed62e5901b276ff0e2fa8258a1fc7e5b331ace7dba409b8c9d930d43da
+🧐 SHA256：50d8d2ed62e5901b276ff0e2fa8258a1fc7e5b331ace7dba409b8c9d930d43da
 
-SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca3869140c15a56ae4c4f3012e99da96bee7a10c3b1fbd16a5d1493008cb8b68
+🧐 SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca3869140c15a56ae4c4f3012e99da96bee7a10c3b1fbd16a5d1493008cb8b68
 
 
 
@@ -101,9 +101,9 @@ SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca38691
 📥 下载地址：
 https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/AnXray-0.4-rc06.apk
 
-SHA256：2608334c27636d89f4409506ede6f3e757623db29f9aa4cd97f8ac1afbaaadce
+🧐 SHA256：2608334c27636d89f4409506ede6f3e757623db29f9aa4cd97f8ac1afbaaadce
 
-SHA512：6e58ba1a543d0fc1092b40adc5df04e15a1700591aa8c2d70be95b2e210cc5dee727e73bcbbef0a10908006c38b7948431685cd2edf52424eaa39ae62a50c4a9
+🧐 SHA512：6e58ba1a543d0fc1092b40adc5df04e15a1700591aa8c2d70be95b2e210cc5dee727e73bcbbef0a10908006c38b7948431685cd2edf52424eaa39ae62a50c4a9
 
 
 

@@ -57,22 +57,22 @@ SHA512：
 ● SSRRAY
 
 下载地址：
-文件大小超出限制不能上传，抱歉。如果你有什么好方法请告诉我
+https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
 
-SHA256：
+SHA256：d8420601f9dfa95cc5748364aa923877eb693829a958b8e6fb7fbc1146a27d39
 
-SHA512：
+SHA512：34ce1a1c5ef48209b414afe5272c64a5d6c2b465ac02317b27f4f8e8c45f0a72407b84e851fb5f507d263740dcf8780907ee311f7f1cef78654c9e26381821d8
 
 
 
 ● Surfboard
 
 下载地址：
-文件大小超出限制不能上传，抱歉。如果你有什么好方法请告诉我
+https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
-SHA256：
+SHA256：50d8d2ed62e5901b276ff0e2fa8258a1fc7e5b331ace7dba409b8c9d930d43da
 
-SHA512：
+SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca3869140c15a56ae4c4f3012e99da96bee7a10c3b1fbd16a5d1493008cb8b68
 
 
 

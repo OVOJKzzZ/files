@@ -96,7 +96,7 @@ https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
 ● AnXray（Fork SagerNet）
 
-⚠ 项目已停止维护，不推荐使用
+⚠️ 项目已停止维护，不推荐使用
 
 📥 下载地址：
 https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/AnXray-0.4-rc06.apk

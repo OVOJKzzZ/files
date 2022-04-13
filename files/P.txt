@@ -96,7 +96,7 @@ SHA512：1682448c0bfa99fda0391c5d409e34e5c276c3685c02a6b946a31a19ba069c53ca38691
 
 ● AnXray（Fork SagerNet）
 
-项目已停止维护，不推荐使用
+⚠ 项目已停止维护，不推荐使用
 
 下载地址：
 https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/AnXray-0.4-rc06.apk

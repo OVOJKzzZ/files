@@ -10,9 +10,9 @@ Clash 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/clash.yaml
 
 Android 代理工具（均为官方最新正式版）
 
-下载完请务必校验 SHA256/SHA512 以防被篡改
-下载完请务必校验 SHA256/SHA512 以防被篡改
-下载完请务必校验 SHA256/SHA512 以防被篡改
+下载完请务必校验 SHA256/SHA512 防止被篡改
+下载完请务必校验 SHA256/SHA512 防止被篡改
+下载完请务必校验 SHA256/SHA512 防止被篡改
 
 
 ● SagerNet

@@ -33,11 +33,11 @@ Android 代理工具（均为官方最新正式版）
 
 ● SagerNet
 
-下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
+📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
 
-SHA256：a8b67ab0abc23d4bb5e4d5897adc16a3aeb8631bf6afdd748e13e5166dbe30af
+🧐 SHA256：a8b67ab0abc23d4bb5e4d5897adc16a3aeb8631bf6afdd748e13e5166dbe30af
 
-SHA512：
+🧐 SHA512：
 
 
 

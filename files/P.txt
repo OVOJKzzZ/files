@@ -31,7 +31,7 @@ Android 代理工具（均为官方最新正式版）
 ⚠️ 下载完请务必校验 SHA256/SHA512 防止被篡改
 
 
-● SagerNet
+🔵 SagerNet
 
 📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/SagerNet-0.7-rc11.apk
 
@@ -41,7 +41,7 @@ Android 代理工具（均为官方最新正式版）
 
 
 
-● Clash for Android Foss
+🔵 Clash for Android Foss
 
 📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-foss.apk
 
@@ -51,7 +51,7 @@ Android 代理工具（均为官方最新正式版）
 
 
 
-● Clash for Android Premium
+🔵 Clash for Android Premium
 
 📥 下载地址：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/Clash%20for%20Android-2.4.14-premium.apk
 
@@ -61,7 +61,7 @@ Android 代理工具（均为官方最新正式版）
 
 
 
-● Matsuri（Fork SagerNet）
+🔵 Matsuri（Fork SagerNet）
 
 📥 下载地址：
 原版与改版如何抉择
@@ -72,7 +72,7 @@ Android 代理工具（均为官方最新正式版）
 
 
 
-● SSRRAY
+🔵 SSRRAY
 
 📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
@@ -83,7 +83,7 @@ https://github.com/OVOJKzzZ/files/releases/download/1.0/SSRRAY-3.8.17.1.apk
 
 
 
-● Surfboard
+🔵 Surfboard
 
 📥 下载地址（可能被墙）：
 https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
@@ -94,7 +94,7 @@ https://github.com/OVOJKzzZ/files/releases/download/1.0/Surfboard-2.9.1.apk
 
 
 
-● AnXray（Fork SagerNet）
+🔵 AnXray（Fork SagerNet）
 
 ⚠️ 项目已停止维护，不推荐使用
 
@@ -107,7 +107,7 @@ https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/AnXray-0.4-rc06.apk
 
 
 
-● v2rayNG/v2flyNG
+🔵 v2rayNG/v2flyNG
 
 不会做软件就别做
 

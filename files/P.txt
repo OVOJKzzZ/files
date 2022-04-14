@@ -22,9 +22,9 @@
 
 这个 VPS 线路很差，能用，主要是自建的很稳定
 
-湖北移动 TCP 去程：湖北移动→英国→荷兰→德国→法国→美国→波兰
+湖北移动 TCP 去程：湖北移动→英国→荷兰→德国→法国→美国→波兰(VPS)
 
-湖北移动 TCP 回程：波兰→美国→法国→香港→湖北移动
+湖北移动 TCP 回程：波兰(VPS)→美国→法国→香港→湖北移动
 
 🔗 V2Ray 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/VMess.txt
 

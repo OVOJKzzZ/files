@@ -20,7 +20,7 @@
 
 🪜 自己搭建的（很稳定）：
 
-🔗 V2Ray 订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/VMess.txt
+🔗 V2Ray 标准格式订阅链接：https://cdn.jsdelivr.net/gh/ovojkzzz/files/files/VMess.txt
 
 
 =============分割线=============
